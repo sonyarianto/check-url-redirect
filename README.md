@@ -1,2 +1,2 @@
-# check-url-redirects
-Bash script to check url redirects
+# check-url-redirect
+Bash script to check url redirection
